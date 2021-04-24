@@ -113,6 +113,7 @@ def Mission_JJC():
     
 #地下城
 def Mission_dixia(Area, Mission_quit = 0):
+    # Mission_quit 表示是否提前撤退
     team = [(int(0.833*hor), int(0.320*(ver-offset[1])+offset[0])),
             (int(0.833*hor), int(0.540*(ver-offset[1])+offset[0])),
             (int(0.833*hor), int(0.760*(ver-offset[1])+offset[0]))]
