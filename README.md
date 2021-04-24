@@ -1,5 +1,6 @@
 # PCR-Routine-Work-by-Airtest
-用 Airtest 跑 Mumu 模拟器上的 PCR，适用于咸鱼党与长草期
+用 Airtest 跑 Mumu 模拟器上的 PCR，适用于咸鱼党与其他长草期
+
 当前版本 `Airtest：1.2.8 Mumu 模拟器：2.4.3`
 
 ## 主要功能
